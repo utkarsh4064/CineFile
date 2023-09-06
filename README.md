@@ -1,3 +1,5 @@
+DEPLOYED SITE URL: https://64f86bfda2b0fc7897d846ea--luminous-rugelach-770e78.netlify.app
+
 # OVERVIEW
 ![image](https://user-images.githubusercontent.com/91830386/177102805-b226c6b5-7573-428c-aa6b-e144e65ba858.png)
 # Movies Section
